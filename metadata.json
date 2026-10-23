@@ -1,0 +1,6 @@
+{
+  "name": "RentShield - ניהול חכם ומוגן ליחסי שכירות",
+  "description": "פלטפורמה חכמה לניהול יחסי שכירות בין משכירים לשוכרים: תעודת יושר, מעקב תשלומים וחשבונות, ניהול תקלות וספקים, מצב המשק וצ'אט משפטי מתועד.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
